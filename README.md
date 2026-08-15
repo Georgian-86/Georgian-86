@@ -2,8 +2,8 @@
 
 # Golu Kumar
 
-**Full Stack Developer Intern @ upGrad School of Technology**
-**DevOps & Cloud Engineer · AWS Certified Cloud Practitioner · B.Tech CSE 2027**
+**Full Stack Developer Intern @ upGrad School of Technology**<br>
+DevOps & Cloud Engineer · AWS Certified Cloud Practitioner · B.Tech CSE 2027
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-golukumar15-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golukumar15)
 [![Email](https://img.shields.io/badge/Email-optimus4586prime-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:optimus4586prime@gmail.com)
