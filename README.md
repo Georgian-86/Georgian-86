@@ -1,4 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:1F6FEB,100:8A2BE2&height=210&section=header&text=Golu%20Kumar&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%26%20Cloud%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:1F6FEB,100:8A2BE2&height=160&section=header" />
+
+<h1 align="center">Golu Kumar</h1>
+<h3 align="center">Full Stack Developer &nbsp;·&nbsp; DevOps &amp; Cloud Engineer &nbsp;·&nbsp; AWS Certified</h3>
 
 <div align="center">
 
