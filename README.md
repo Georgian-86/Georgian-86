@@ -200,14 +200,17 @@ I work across the stack and into infrastructure: REST APIs and payment ledgers o
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Georgian-86&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=8A2BE2" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georgian-86&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&langs_count=8" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Georgian-86&theme=tokyonight" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=Georgian-86&theme=tokyonight&hide_border=true&background=0D1117&ring=1F6FEB&fire=8A2BE2&currStreakLabel=1F6FEB" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Georgian-86&theme=tokyonight" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Georgian-86&theme=tokyonight" />
+
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Georgian-86&theme=tokyonight" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Georgian-86&theme=tokyonight&utcOffset=5.5" />
+
+<img height="185" src="https://streak-stats.demolab.com?user=Georgian-86&theme=tokyonight&hide_border=true&background=0D1117&ring=1F6FEB&fire=8A2BE2&currStreakLabel=1F6FEB" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Georgian-86&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1F6FEB&line=8A2BE2&point=FFFFFF" />
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Georgian-86&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
